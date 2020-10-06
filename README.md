@@ -1,8 +1,8 @@
 # Vue Notus <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fvue-notus%2F%23%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20VueJS%20UI%20Kit%20and%20Admin.%20Let%20Vue%20Notus%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level.%20" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/vue-notus/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-notus.svg)</a> <a href="https://github.com/creativetimofficial/vue-notus/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vue-notus.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/metalentco/vue-notus/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/metalentco/vue-notus.svg)</a> <a href="https://github.com/metalentco/vue-notus/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/metalentco/vue-notus.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
 
-![Vue Notus](https://github.com/creativetimofficial/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)
+![Vue Notus](https://github.com/metalentco/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)
 
 ### A beautiful UI Kit and Admin for Tailwind CSS and VueJS.
 
@@ -93,12 +93,12 @@ We also feature the following 18 dynamic components:
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-angular?ref=vn-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/js.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-js?ref=vn-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nextjs.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-nextjs?ref=vn-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-react?ref=vn-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/svelte.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-svelte?ref=vn-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-notus?ref=vn-github-readme)
+[<img src="https://github.com/metalentco/public-assets/blob/master/logos/angular.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-angular?ref=vn-github-readme)[<img src="https://github.com/metalentco/public-assets/blob/master/logos/js.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-js?ref=vn-github-readme)[<img src="https://github.com/metalentco/public-assets/blob/master/logos/nextjs.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-nextjs?ref=vn-github-readme)[<img src="https://github.com/metalentco/public-assets/blob/master/logos/react.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-react?ref=vn-github-readme)[<img src="https://github.com/metalentco/public-assets/blob/master/logos/svelte.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-svelte?ref=vn-github-readme)[<img src="https://github.com/metalentco/public-assets/blob/master/logos/vue.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-notus?ref=vn-github-readme)
 
 
 | Angular | JavaScript / HTML | NextJS | React | Svelte | VueJS |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [![Notus Angular](https://github.com/creativetimofficial/public-assets/blob/master/notus-angular/notus-angular.jpg?raw=true)](https://www.creative-tim.com/product/notus-angular?ref=vn-github-readme)  | [![Notus JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)](https://www.creative-tim.com/product/notus-js?ref=vn-github-readme)  | [![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/notus-nextjs?ref=vn-github-readme)  | [![Notus React](https://github.com/creativetimofficial/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-react?ref=vn-github-readme)  | [![Notus Svelte](https://github.com/creativetimofficial/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)](https://www.creative-tim.com/product/notus-svelte?ref=vn-github-readme)  | [![Vue Notus](https://github.com/creativetimofficial/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)](https://www.creative-tim.com/product/vue-notus?ref=vn-github-readme)
+| [![Notus Angular](https://github.com/metalentco/public-assets/blob/master/notus-angular/notus-angular.jpg?raw=true)](https://www.creative-tim.com/product/notus-angular?ref=vn-github-readme)  | [![Notus JS](https://github.com/metalentco/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)](https://www.creative-tim.com/product/notus-js?ref=vn-github-readme)  | [![Notus NextJS](https://github.com/metalentco/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/notus-nextjs?ref=vn-github-readme)  | [![Notus React](https://github.com/metalentco/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-react?ref=vn-github-readme)  | [![Notus Svelte](https://github.com/metalentco/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)](https://www.creative-tim.com/product/notus-svelte?ref=vn-github-readme)  | [![Vue Notus](https://github.com/metalentco/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)](https://www.creative-tim.com/product/vue-notus?ref=vn-github-readme)
 
 ## Documentation
 The documentation for the Vue Notus is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/vue/overview/notus?ref=vn-readme" target="_blank">website</a>.
@@ -106,7 +106,7 @@ The documentation for the Vue Notus is hosted at our <a href="https://www.creati
 ## Quick start
 
 - <a href="https://www.creative-tim.com/product/vue-notus?ref=vn-github-readme" target="_blank">Download from Creative Tim</a>.
-- <a href="https://github.com/creativetimofficial/vue-notus" target="_blank">Check it on Github</a>.
+- <a href="https://github.com/metalentco/vue-notus" target="_blank">Check it on Github</a>.
 
 ## Files and Folder
 
@@ -188,7 +188,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | Chrome | Firefox | Edge | Safari | Opera |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
+| <img src="https://github.com/metalentco/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
 
 ## Reporting Issues
 
@@ -202,7 +202,7 @@ We use GitHub Issues as the official bug tracker for the Vue Notus. Here are som
 
 - Copyright 2020 <a href="https://www.creative-tim.com/?ref=vn-readme" target="_blank">Creative Tim</a>
 
-- Licensed under <a href="https://github.com/creativetimofficial/vue-notus/blob/master/LICENSE.md" target="_blank">MIT</a>
+- Licensed under <a href="https://github.com/metalentco/vue-notus/blob/master/LICENSE.md" target="_blank">MIT</a>
 
 ## Useful Links
 
@@ -227,7 +227,7 @@ Facebook: <a href="https://www.facebook.com/CreativeTim" target="_blank">https:/
 
 Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dribbble.com/creativetim</a>
 
-Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_blank">https://www.instagram.com/creativetimofficial/</a>
+Instagram: <a href="https://www.instagram.com/metalentco/" target="_blank">https://www.instagram.com/metalentco/</a>
 
 
 ## Resources
@@ -236,4 +236,4 @@ Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_bla
 - Documentation: <a href="https://www.creative-tim.com/learning-lab/tailwind/vue/overview/notus?ref=vn-readme" target="_blank">https://www.creative-tim.com/learning-lab/tailwind/vue/overview/notus</a>
 - License Agreement: <a href="https://www.creative-tim.com/license?ref=vn-readme" target="_blank">https://www.creative-tim.com/license?ref=vn-readme</a>
 - Support: <a href="https://www.creative-tim.com/contact-us?ref=vn-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=vn-readme</a>
-- Issues: <a href="https://github.com/creativetimofficial/vue-notus/issues" target="_blank">Github Issues Page</a>
+- Issues: <a href="https://github.com/metalentco/vue-notus/issues" target="_blank">Github Issues Page</a>

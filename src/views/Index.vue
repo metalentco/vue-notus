@@ -32,7 +32,7 @@
                 Get started
               </a>
               <a
-                href="https://github.com/creativetimofficial/vue-notus?ref=vn-index"
+                href="https://github.com/metalentco/vue-notus?ref=vn-index"
                 class="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 target="_blank"
               >
@@ -300,7 +300,7 @@
                     <img
                       alt="..."
                       class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                      src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/svelte.jpg"
+                      src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/svelte.jpg"
                     />
                     <p class="text-lg text-white mt-4 font-semibold">
                       Svelte
@@ -317,7 +317,7 @@
                     <img
                       alt="..."
                       class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                      src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react.jpg"
+                      src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/react.jpg"
                     />
                     <p class="text-lg text-white mt-4 font-semibold">
                       ReactJS
@@ -334,7 +334,7 @@
                     <img
                       alt="..."
                       class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                      src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg"
+                      src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/nextjs.jpg"
                     />
                     <p class="text-lg text-white mt-4 font-semibold">
                       NextJS
@@ -353,7 +353,7 @@
                     <img
                       alt="..."
                       class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                      src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/js.png"
+                      src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/js.png"
                     />
                     <p class="text-lg text-white mt-4 font-semibold">
                       JavaScript
@@ -370,7 +370,7 @@
                     <img
                       alt="..."
                       class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                      src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular.jpg"
+                      src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/angular.jpg"
                     />
                     <p class="text-lg text-white mt-4 font-semibold">
                       Angular
@@ -387,7 +387,7 @@
                     <img
                       alt="..."
                       class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                      src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue.jpg"
+                      src="https://raw.githubusercontent.com/metalentco/public-assets/master/logos/vue.jpg"
                     />
                     <p class="text-lg text-white mt-4 font-semibold">
                       Vue.js
@@ -666,7 +666,7 @@
               Star!
             </p>
             <a
-              href="https://github.com/creativetimofficial/vue-notus?ref=vn-index"
+              href="https://github.com/metalentco/vue-notus?ref=vn-index"
               target="_blank"
               class="github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
             >
@@ -731,7 +731,7 @@
                 Get started
               </a>
               <a
-                href="https://github.com/creativetimofficial/vue-notus?ref=vn-index"
+                href="https://github.com/metalentco/vue-notus?ref=vn-index"
                 target="_blank"
                 class="github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
               >
